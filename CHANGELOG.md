@@ -1,0 +1,85 @@
+# tauRank changelog
+
+Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com rank tracker that searches from
+the countries your guests come from. Newest first; each entry is also a release in this repo's
+[Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
+
+## 2026-10-13 · A changelog
+
+- A [changelog](https://taurank.com/changelog): dated product updates, newest first, also as an [Atom feed](https://taurank.com/changelog.xml) and as releases on [GitHub](https://github.com/tauRank/changelog/releases).
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-13)
+
+## 2026-10-12 · The dashboard on a phone, a FAQ and two guides
+
+The listing screen now works on a phone, panel by panel, instead of shrinking the desktop layout.
+
+- **Open dates** become a list of the stays we searched, with the price per night and your position from each country, and your booked dates in between.
+- **Position over time** draws one short chart per country.
+- **Price against position** becomes four counts - cheaper or pricier, ranking above or below you - and names the listings that are cheaper and rank above you.
+- A [FAQ](https://taurank.com/#faq) on the home page.
+- A guide: [Why did my Airbnb ranking drop?](https://taurank.com/why-did-my-airbnb-ranking-drop), four checks in order before you change your listing.
+- [tauRank vs Rankbreeze](https://taurank.com/taurank-vs-rankbreeze): where each tool fits.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-12)
+
+## 2026-10-09 · Steadier daily positions
+
+- A day's position is now the **median** of that day's searches, not the average. One unusual search no longer drags the whole day.
+- The listings table shows yesterday's position, so it compares whole days.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-09)
+
+## 2026-10-01 · Pro looks 60 days ahead
+
+- **Pro** now scans your open dates 60 days ahead, the same as Business (it was 30).
+- At your plan's listing limit, *Add a listing* stays on screen and offers an extra listing, rather than disappearing.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-01)
+
+## 2026-09-26 · City reports
+
+- [City reports](https://taurank.com/cities): for each city we search every day, how guests from different countries see its Airbnb and Booking.com listings, where their rankings agree, and what each is shown first.
+- A listing now opens on its open dates when they have been searched, and otherwise on the weekend, week or month you track.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-26)
+
+## 2026-09-25 · A better listings table
+
+- Each tracked listing shows its photo.
+- Give a listing your own name, so you can tell your properties apart at a glance.
+- The table shows what each listing tracks and its last position, and you can sort it.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-25)
+
+## 2026-09-24 · One-time checks, all the way through
+
+- A check has its own page that you can bookmark and reopen.
+- Searching starts as soon as you submit the form, so the answer is ready sooner.
+- A checked listing opens in the full listing screen: your price against similar listings and the listings a guest compares you with, from one search.
+- Refresh a checked listing for a new reading.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-24)
+
+## 2026-09-22 · Compare with listings like yours
+
+- Your rank and your price are compared with listings that have **the same number of beds**, at any price.
+- The dates panel says which search it is showing and when the next one runs.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-22)
+
+## 2026-09-21 · A 14-day demo
+
+- [Try a demo](https://taurank.com/demo): fourteen days on a real listing with real history, seeing what a Business subscriber sees. Sign in by email; no card.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-21)
+
+## 2026-09-19 · Plans, credits and the new dashboard
+
+- Starter, Pro and Business plans, monthly or annual, paid by card.
+- Credit packs for one-time checks and add-ons.
+- A new dashboard design.
+- Each city is searched and priced in its own currency.
+- How much guest countries agree on a city's order, measured with Kendall's tau, for each pair of countries and for each listing.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-09-19)
