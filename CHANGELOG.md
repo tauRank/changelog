@@ -4,6 +4,14 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-15 · A blog
+
+- A [blog](https://taurank.com/blog): how rankings are measured, what the city reports find, and news, also as an [Atom feed](https://taurank.com/blog.xml).
+- Adding a listing now shows a progress bar while its first reading runs, instead of a small spinner.
+- The site footer links our profiles on LinkedIn, GitHub, X, Instagram and Threads.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-15)
+
 ## 2026-10-13 · A changelog
 
 - A [changelog](https://taurank.com/changelog): dated product updates, newest first, also as an [Atom feed](https://taurank.com/changelog.xml) and as releases on [GitHub](https://github.com/tauRank/changelog/releases).
