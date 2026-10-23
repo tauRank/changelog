@@ -4,6 +4,32 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-23 · Check a listing from the menu, and a demo link that lasts a day
+
+- [Check a listing](https://taurank.com/check) is in the top menu. The page starts with the form, shows a real answer as an example, and says how long one takes: about three minutes.
+- If we cannot open the listing you checked - removed, private, or not a listing link - nothing is searched and the credit goes straight back to your balance.
+- The [demo](https://taurank.com/demo) page shows the demo's real dashboard, names the listing it tracks, and says what happens after you enter your email.
+- The demo link we email you now works for 24 hours, on any device: ask for it on your phone, open it later on your laptop.
+- Cookie choices: allow analytics and marketing cookies separately, both, or neither, and change your mind any time under **Cookie settings** in the footer. Because the choices changed, you are asked once more.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-23)
+
+## 2026-10-21 · More in Starter, and buying without an account first
+
+- Starter now searches from three countries instead of two, and includes open dates on every listing: 60 days ahead, up to two stays. See [pricing](https://taurank.com/pricing).
+- Credit packs and plans can be bought without making an account first: pay, and you come back signed in. If the email you paid with already has a tauRank account, we email it a sign-in link instead.
+- Choosing a search window your plan does not include now offers the add-on that unlocks it, or Pro, right there.
+- Two new articles on the [blog](https://taurank.com/blog): [Does Airbnb show different prices by country?](https://taurank.com/blog/does-airbnb-show-different-prices-by-country), from 1,764 first pages, and [Which guests does Airbnb treat as price-sensitive?](https://taurank.com/blog/which-countries-are-price-sensitive), across seven countries.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-21)
+
+## 2026-10-16 · Search as a local guest would
+
+- A listing can now be searched the way a local guest searches: in each country's own language, and on Airbnb's site for that country, such as airbnb.de, instead of in English on airbnb.com and booking.com. Tick **Search like a local guest** when you add a listing or on its edit page. Prices stay in your city's currency, so the two compare.
+- You can track the same listing both ways at once, to see whether local guests rank it differently. The local copy appears on your list as its own listing, with its countries marked **local**, and counts as a listing on your plan.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-16)
+
 ## 2026-10-15 · A blog
 
 - A [blog](https://taurank.com/blog): how rankings are measured, what the city reports find, and news, also as an [Atom feed](https://taurank.com/blog.xml).
