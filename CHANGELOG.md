@@ -4,6 +4,17 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-26 · Checks start on your open dates, and a menu that fits a phone
+
+- A [one-time check](https://taurank.com/check) now starts on your listing's first open dates, the stay you are trying to sell, rather than a weekend that may already be booked. Each country's result says its market, stay and party size.
+- Prices on the check page and in the credit packs now say "+ VAT", and the button says what it spends: one credit.
+- Each plan's button sits right under its price on [pricing](https://taurank.com/pricing), as well as at the foot of the card.
+- The [demo](https://taurank.com/demo) page shows the demo's own dashboard beside the form.
+- On a phone, the site's menu folds behind a button instead of running off the edge. Signed in, Sign out sits next to Dashboard.
+- The position chart is simpler: a scan that did not find your listing is one dot at the bottom, and the legend only names what the chart does not already show.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-26)
+
 ## 2026-10-25 · Sign in with Google, and an email when your results are in
 
 - Sign in with your Google account, or with your email as before. Signing in opens over the page you are on, so you stay where you were.
