@@ -4,6 +4,18 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-25 · Sign in with Google, and an email when your results are in
+
+- Sign in with your Google account, or with your email as before. Signing in opens over the page you are on, so you stay where you were.
+- Buying a check, a credit pack or a plan now starts by signing in, so every purchase lands on an account you can open again.
+- We email you once your results are ready: a check, the first reading of a new listing, or a refresh. You can close the page while it runs.
+- A one-time check reads every results page, so it can always say where your listing stands, however far down it is.
+- Check the same listing on two different days and it gets its own position chart.
+- Party sizes go up to 16 guests, and new listings default to 3-night stays.
+- A Booking.com property with several room types now shows how many it has, and how many guests the largest one sleeps.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-25)
+
 ## 2026-10-23 · Check a listing from the menu, and a demo link that lasts a day
 
 - [Check a listing](https://taurank.com/check) is in the top menu. The page starts with the form, shows a real answer as an example, and says how long one takes: about three minutes.
