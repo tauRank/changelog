@@ -4,6 +4,15 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-27 · Your ranking for one stay, and the days something changed
+
+- The position chart can follow one stay: pick a stay under **Open dates** and the chart shows where that search placed you, day by day, in each country. **Overall** is still the average across every search we run for you.
+- Flags above the chart mark the days your rating or review count changed, and, when you are looking at one stay, the days your price for those nights changed. Hover a flag to see what it changed from.
+- A scan that did not find your listing is a point at the bottom of the line, and the line runs through it, so a drop out of the results reads as a drop.
+- **Where you rank for your dates** shows a country that searched a stay and did not find you as a dot at the bottom, instead of leaving the stay looking unscanned.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-27)
+
 ## 2026-10-26 · Checks start on your open dates, and a menu that fits a phone
 
 - A [one-time check](https://taurank.com/check) now starts on your listing's first open dates, the stay you are trying to sell, rather than a weekend that may already be booked. Each country's result says its market, stay and party size.
