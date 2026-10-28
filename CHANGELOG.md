@@ -4,6 +4,23 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-28 · Search your listing in more than one location
+
+- Add another location to a listing on its edit page, such as the town next to a village, and every window and stay is searched there too. On Pro and Business each extra location uses one of the slots your markets and party sizes share.
+- A listing in a village that shares its name with another one is now searched in the right village. Give an extra location its county, as in "Pucioasa, Dâmbovița", to be sure which one you mean.
+- A listing searched in several locations shows a **Searched location** choice on its page, and every panel reads one location at a time.
+- **Where you rank for your dates** has a link that opens the same search on Airbnb or Booking.com in a new tab.
+- The position chart opens on the stay you picked. Its flags show a green or red arrow for your rating and review count, and your price change as a percentage.
+- Each section's notes open from the ⓘ next to its title, and are shorter.
+- Before we have read your listing's calendar, the open-date slots on its edit page show the stay length they will search. After that, each one names the stay it is searching, nearest first.
+- **Refresh** now reads your listing first, so its searches use what that read finds. It also runs every search at full depth, even when a scheduled scan of the same search was already waiting.
+- Some listings whose county is spelled two ways on their own page had moved to the wrong place, and their panels were empty. They are back where they belong.
+- A Booking.com search that never reached its results no longer counts as a search that found nothing.
+- Chart flags no longer overlap when changes land on consecutive days. Several changes on one day each get their own line, and a review count reads "5 → 6".
+- Selected source markets look like every other selected choice. On a phone, the Overall / one-stay switch fits on one row.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-28)
+
 ## 2026-10-27 · Your ranking for one stay, and the days something changed
 
 - The position chart can follow one stay: pick a stay under **Open dates** and the chart shows where that search placed you, day by day, in each country. **Overall** is still the average across every search we run for you.
