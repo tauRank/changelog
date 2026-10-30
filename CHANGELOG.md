@@ -4,6 +4,15 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking.com r
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-10-30 · Everything tauRank does, on one page
+
+- The [home page](https://taurank.com/), the [check page](https://taurank.com/check) and the [demo](https://taurank.com/demo) now list every feature in one place, each with a line on what it is for.
+- A side-by-side comparison shows what tauRank reads that searching on your own phone cannot.
+- The home page no longer marks open dates as Pro only: every plan has included open-date stays since 21 October.
+- The foot of the home page now offers a one-time check of your listing.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-10-30)
+
 ## 2026-10-28 · Search your listing in more than one location
 
 - Add another location to a listing on its edit page, such as the town next to a village, and every window and stay is searched there too. On Pro and Business each extra location uses one of the slots your markets and party sizes share.
