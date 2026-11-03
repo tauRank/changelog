@@ -4,6 +4,16 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-04 · The dashboard on your phone
+
+- On a phone, a listing's filters fold into one **Filters** line at the top. Tap the arrow to open them.
+- On a phone, a note above your stays says that tapping one switches every panel below to its dates.
+- The list of your listings no longer opens on three summary tiles; it goes straight to the listings.
+- Your calendar calls nights **available** or **booked**.
+- The [home page](https://taurank.com/), the [check page](https://taurank.com/check) and the [demo](https://taurank.com/demo) show the dashboard on a phone, a tablet and a laptop.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-04)
+
 ## 2026-11-03 · tauRank in Romanian and Hungarian
 
 - The site, the dashboard and the emails we send you are now in Romanian and Hungarian as well as English, at [/ro](https://taurank.com/ro) and [/hu](https://taurank.com/hu). Choose a language at the top of any page: we remember it, and your emails follow it.
