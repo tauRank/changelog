@@ -1,6 +1,6 @@
 # tauRank changelog
 
-Product updates for [tauRank](https://taurank.com), a rank tracker for Airbnb and Booking.com listings. It searches
+Product updates for [tauRank](https://taurank.com), a rank tracker for Airbnb and Booking listings. It searches
 daily from the countries your guests come from, shows where your listing ranks in each and the gap
 between them, and compares your price with similar listings.
 
