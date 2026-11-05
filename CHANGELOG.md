@@ -4,6 +4,21 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-05 · Maps of your competitors
+
+- **Comparable listings** now only counts listings within 1 km of yours. Its filters apply exactly as you set them, and its price filter has an **Any** option for every listing of your size nearby, whatever it charges.
+- Under the table, **Competitors on the map** shows those listings numbered by their position, with yours as a star. Its title says the country, price range, beds and nights it shows.
+- A new **Listings within 1 km** map shows every listing with as many beds as yours inside a 1 km circle, on Airbnb and Booking, each labelled with its latest price for your party size. Listings that sit close together are grouped: tap a group to spread them out.
+- Below that map, a table lists the same listings with their rating, latest price, the last day we saw them and how far away they are. Tap a column title to sort, or a name to find the listing on the map.
+- **Comparable listings**, **Where your price sits** and **Price against position** now name the dates or the search they show in their titles.
+- Tapping the dates at the top of a listing's page takes you to the dates panel instead of reloading the page.
+- The [home page](https://taurank.com/) has a new headline and a shorter introduction, with its buttons right below it, and shows plans from €9 a month after the three steps.
+- The [check page](https://taurank.com/check) form and the [pricing](https://taurank.com/pricing) buttons work even with JavaScript turned off.
+- Sharing the home, pricing, check or demo page shows a new preview picture.
+- The [privacy policy](https://taurank.com/privacy) now lists the service that draws the maps.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-05)
+
 ## 2026-11-04 · The dashboard on your phone
 
 - On a phone, a listing's filters fold into one **Filters** line at the top. Tap the arrow to open them.
