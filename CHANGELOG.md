@@ -4,6 +4,21 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-06 · Sorting, map details and a FAQ
+
+- **Comparable listings** sorts by any column title: position, τ, name, price, rating or reviews.
+- **Competitors on the map** labels each listing with its price. Tap any pin, yours included, for its platform, beds, rating and price per night; on the comparables map it also shows the position, such as "Page 8 #129".
+- In a small place, the comparable table and both maps can widen to 5 or 10 km, with one choice for all three.
+- On Starter, the nearby map shows the prices; names, ratings and the table come with Pro and Business. Starter compares you with listings priced within 20% of yours. The [pricing](https://taurank.com/pricing) cards list what each plan shows of the maps.
+- A listing's page reads yesterday's scans, so every panel agrees and the position chart never ends on a half-scanned day. A refresh or check you run today still shows at once. A day with no scan between two that have one is bridged with a dotted line.
+- When a scan did not reach your listing, the comparable panels use the latest scan that did and say which day, **Your price / night** shows your own page's price and says so, and **Price against position** still shows you, on a bottom lane marked "beyond page N".
+- Prices are shown in your city's currency everywhere, including a new listing's first read.
+- **Listings within 1 km** starts with your own listing.
+- A new [FAQ](https://taurank.com/faq) page answers the common questions in full. It is linked from the home page and the footer.
+- Sharing a city report shows a new preview picture.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-06)
+
 ## 2026-11-05 · Maps of your competitors
 
 - **Comparable listings** now only counts listings within 1 km of yours. Its filters apply exactly as you set them, and its price filter has an **Any** option for every listing of your size nearby, whatever it charges.
