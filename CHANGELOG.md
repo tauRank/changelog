@@ -4,6 +4,16 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-07 · A quicker check, step by step
+
+- The [check](https://taurank.com/check) form is now just your listing's link and one button. Stay, guests and countries are under **Settings**, and three countries are already picked for you.
+- While a check runs, you see each step as it happens: your listing being read, then each country's search, each with its own spinner. When your listing has been read, its row shows its name, beds, how many guests it takes and, for your first open dates, the stay we found.
+- If you start a check from an app such as Instagram and the sign-in email opens in your phone's browser, the check carries on there instead of starting over.
+- The links beside your listing's title, on **Competitors on the map** and in **Comparable listings** open the listing for the dates and number of guests on screen.
+- **Comparable listings** colours the price difference: green where a listing charges more than you, red where it costs less. Rating and reviews no longer have arrows.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-07)
+
 ## 2026-11-06 · Sorting, map details and a FAQ
 
 - **Comparable listings** sorts by any column title: position, τ, name, price, rating or reviews.
