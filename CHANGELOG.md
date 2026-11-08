@@ -4,6 +4,22 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-08 · City reports, rebuilt
+
+- The [city reports](https://taurank.com/cities) are rebuilt and updated every Monday. Each city has an overview and, where there is enough data, pages for Airbnb prices, Booking.com prices, rankings by country and competition.
+- A prices page shows how nightly prices spread, what each size of listing costs, how weekend prices move over the coming weeks and, on a map, where in the city listings cost more.
+- The rankings page shows how many page-one listings guests from other countries share with guests from the city's own country, and what page one looks like from each country.
+- The competition page shows how many listings we scanned, where they are, their ratings and reviews, and what it takes to reach page one.
+- **How does your listing compare?** puts your price, size, rating and reviews next to the city's figures. It works in your browser and nothing you type is sent.
+- Each city's figures download as a CSV, free to reuse with credit. [How the figures are made](https://taurank.com/cities/methodology) explains each one, and why no listing can be picked out.
+- The overviews are in English, Romanian and Hungarian; the other pages in English and Romanian.
+- The [check](https://taurank.com/check) page shows screens of a real check's results: swipe through them or use the arrows.
+- A check that takes longer than usual is followed to the end, and the ready message has an **Open this check** button.
+- The check form starts on a weekend. First open dates are under **Settings**.
+- Your past checks on the check page read well on a phone.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-08)
+
 ## 2026-11-07 · A quicker check, step by step
 
 - The [check](https://taurank.com/check) form is now just your listing's link and one button. Stay, guests and countries are under **Settings**, and three countries are already picked for you.
