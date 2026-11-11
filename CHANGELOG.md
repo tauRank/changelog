@@ -4,6 +4,14 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-11 · Correct nightly prices
+
+- Booking.com weekend prices per night are now right. They showed at half: a Booking.com weekend is priced for the Friday night only, and we divided it by two nights.
+- Week-long stays on both platforms are priced for 5 nights, and their nightly prices were divided by 7. They are right now.
+- Past days are corrected too, so your price charts and comparisons are right for every day you have tracked.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-11)
+
 ## 2026-11-08 · City reports, rebuilt
 
 - The [city reports](https://taurank.com/cities) are rebuilt and updated every Monday. Each city has an overview and, where there is enough data, pages for Airbnb prices, Booking.com prices, rankings by country and competition.
