@@ -4,6 +4,17 @@ Product updates for [tauRank](https://taurank.com), the Airbnb and Booking rank 
 the countries your guests come from. Newest first; each entry is also a release in this repo's
 [Releases](https://github.com/tauRank/changelog/releases). The canonical copy is [taurank.com/changelog](https://taurank.com/changelog).
 
+## 2026-11-14 · Steadier open dates and clearer charts
+
+- Your open dates keep the same stays from one day to the next, so each stay builds its own history. When a booking ends, the stays after it no longer move by a day.
+- When you add a stay with your own dates, your dashboard row shows the line and position for that stay only. It mixed in other stays from the same city.
+- The position chart appears from the first scan.
+- **Your price / night** says which nights the price is for.
+- **Price against position** places very expensive and very cheap listings at the edge of the chart, marked with an arrow, so the rest stay readable. Hover one to see its price.
+- Booking.com listings take as many guests as the listing says. Some one-bedroom apartments were shown as taking 4.
+
+[Read on taurank.com](https://taurank.com/changelog#2026-11-14)
+
 ## 2026-11-12 · What you see with tauRank
 
 - The home page and the [check](https://taurank.com/check) page show screens of a real check, starting with where a listing ranks from each country for each of its open dates.
